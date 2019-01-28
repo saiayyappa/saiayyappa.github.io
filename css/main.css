@@ -453,7 +453,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   color: #fff;
   font-weight: bold;
   font-size: 13px;
-  font-family:'Open Sans', sans-serif
+  font-family:'Open Sans', sans-serif;
   line-height: 1;
   *display:inline;
   *zoom:1;
